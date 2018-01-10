@@ -1,0 +1,63 @@
+Command entered: 
+Command entered:  my-tweets
+Tweet: Just setting up my Twitter. #myfirstTweet
+Date: Wed Jan 10 03:19:17 +0000 2018
+================================
+
+Command entered:  spotify-this-song hotel california
+Spotify THIS: 
+Artist Name: Eagles
+Song Name: Hotel California - Remastered
+Preview Link: https://p.scdn.co/mp3-preview/50e82c99c20ffa4223e82250605bbd8500cb3928?cid=6fe9748aecdb45cdba0c1321a4d9eece
+Album Name: Hotel California (Remastered)
+=============================
+
+Spotify THIS: 
+Artist Name: Eagles
+Song Name: Life In The Fast Lane - Remastered
+Preview Link: https://p.scdn.co/mp3-preview/d8393c90573d9d7049519e5adfe3983b221bc78a?cid=6fe9748aecdb45cdba0c1321a4d9eece
+Album Name: Hotel California (Remastered)
+=============================
+
+Spotify THIS: 
+Artist Name: Tyga
+Song Name: Molly
+Preview Link: null
+Album Name: Hotel California (Deluxe)
+=============================
+
+Spotify THIS: 
+Artist Name: Tyga
+Song Name: Switch Lanes
+Preview Link: null
+Album Name: Hotel California (Deluxe)
+=============================
+
+Spotify THIS: 
+Artist Name: Eagles
+Song Name: Hotel California - Remastered
+Preview Link: https://p.scdn.co/mp3-preview/50e82c99c20ffa4223e82250605bbd8500cb3928?cid=6fe9748aecdb45cdba0c1321a4d9eece
+Album Name: The Very Best Of The Eagles (Remastered)
+=============================
+
+Spotify THIS: 
+Artist Name: Eagles
+Song Name: New Kid In Town - Remastered
+Preview Link: https://p.scdn.co/mp3-preview/6865d7e96e4d20c8e29880ced3e0a2c243545ac5?cid=6fe9748aecdb45cdba0c1321a4d9eece
+Album Name: Hotel California (Remastered)
+=============================
+
+Spotify THIS: 
+Artist Name: Tyga
+Song Name: Dope
+Preview Link: null
+Album Name: Hotel California (Deluxe)
+=============================
+
+Spotify THIS: 
+Artist Name: Eagles
+Song Name: Hotel California - Live at The Los Angeles Forum, 10/20-22/76
+Preview Link: https://p.scdn.co/mp3-preview/84a28e863e16a752c6956e571590ac2fae26cbc9?cid=6fe9748aecdb45cdba0c1321a4d9eece
+Album Name: Hotel California (Live at The Los Angeles Forum, 10/20-22/76)
+=============================
+
